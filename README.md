@@ -1,2 +1,2 @@
-# Personal-Portfolio
-Created my personal Portfolio using html, Css, javascript.....
+# Portfolio-Website
+Portfolio Using HTML and CSS
